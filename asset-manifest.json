@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bridge/static/css/main.d502f636.css",
+    "main.js": "/bridge/static/js/main.1318f0fa.js",
+    "static/media/dethcult.jpg": "/bridge/static/media/dethcult.196b318fb3708a7b74d3.jpg",
+    "static/media/Jacquard12-Regular.ttf": "/bridge/static/media/Jacquard12-Regular.ae058d665ee22cecb0d5.ttf",
+    "static/media/dethlogo.png": "/bridge/static/media/dethlogo.95ce4402393ad84fe27c.png",
+    "static/media/ethereum-eth-logo.png": "/bridge/static/media/ethereum-eth-logo.a85b6de0dc4a013ae2f8.png",
+    "static/media/solana-sol-logo.png": "/bridge/static/media/solana-sol-logo.88dd9cd2498aebe1ee8c.png",
+    "static/media/UncialAntiqua-Regular.ttf": "/bridge/static/media/UncialAntiqua-Regular.47d8269b6e7e7ec41fe9.ttf",
+    "static/media/CinzelDecorative-Black.ttf": "/bridge/static/media/CinzelDecorative-Black.a98758b9452a977dba37.ttf",
+    "static/media/CinzelDecorative-Bold.ttf": "/bridge/static/media/CinzelDecorative-Bold.4701e9921703cb64dfce.ttf",
+    "static/media/logo.svg": "/bridge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bridge/index.html",
+    "main.d502f636.css.map": "/bridge/static/css/main.d502f636.css.map",
+    "main.1318f0fa.js.map": "/bridge/static/js/main.1318f0fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d502f636.css",
+    "static/js/main.1318f0fa.js"
+  ]
+}
