@@ -18,8 +18,8 @@ const Navbar = () => {
       {/* Nav Items */}
       <div className="flex gap-6 items-center">
         <a href="#" className="hover:text-lime-400"></a>
-        <a href="#" className="hover:text-lime-400"></a>
-        <a href="#" className="hover:text-lime-400">CA: TBA</a>
+        <div className="hover:text-fuchsia-400">CA:</div>
+        <div className="hover:text-fuchsia-400">6SXTKJd6gjzMu5MiVyHcue1uSsmGhF34txGPtBpEpump</div>
 
         {/* Dropdown */}
         
