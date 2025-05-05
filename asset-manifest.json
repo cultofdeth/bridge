@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/bridge/static/css/main.d502f636.css",
-    "main.js": "/bridge/static/js/main.1318f0fa.js",
+    "main.css": "/bridge/static/css/main.238a0413.css",
+    "main.js": "/bridge/static/js/main.d5b7d031.js",
+    "static/js/648.cd74b83e.chunk.js": "/bridge/static/js/648.cd74b83e.chunk.js",
+    "static/js/227.de2881b9.chunk.js": "/bridge/static/js/227.de2881b9.chunk.js",
     "static/media/dethcult.jpg": "/bridge/static/media/dethcult.196b318fb3708a7b74d3.jpg",
     "static/media/Jacquard12-Regular.ttf": "/bridge/static/media/Jacquard12-Regular.ae058d665ee22cecb0d5.ttf",
     "static/media/dethlogo.png": "/bridge/static/media/dethlogo.95ce4402393ad84fe27c.png",
@@ -12,11 +14,13 @@
     "static/media/CinzelDecorative-Bold.ttf": "/bridge/static/media/CinzelDecorative-Bold.4701e9921703cb64dfce.ttf",
     "static/media/logo.svg": "/bridge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bridge/index.html",
-    "main.d502f636.css.map": "/bridge/static/css/main.d502f636.css.map",
-    "main.1318f0fa.js.map": "/bridge/static/js/main.1318f0fa.js.map"
+    "main.238a0413.css.map": "/bridge/static/css/main.238a0413.css.map",
+    "main.d5b7d031.js.map": "/bridge/static/js/main.d5b7d031.js.map",
+    "648.cd74b83e.chunk.js.map": "/bridge/static/js/648.cd74b83e.chunk.js.map",
+    "227.de2881b9.chunk.js.map": "/bridge/static/js/227.de2881b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d502f636.css",
-    "static/js/main.1318f0fa.js"
+    "static/css/main.238a0413.css",
+    "static/js/main.d5b7d031.js"
   ]
 }
